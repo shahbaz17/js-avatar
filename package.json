@@ -1,0 +1,28 @@
+{
+  "name": "js-avatar",
+  "version": "1.0.0",
+  "description": "A package to generate avatars based on email and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahbaz17/js-avatar.git"
+  },
+  "keywords": [
+    "avatar",
+    "js-avatar",
+    "profile-pic",
+    "profile-image"
+  ],
+  "author": "hey@mdsbzalam.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shahbaz17/js-avatar/issues"
+  },
+  "homepage": "https://github.com/shahbaz17/js-avatar#readme",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
